@@ -10,14 +10,7 @@ int main() {
 	// Int
 	// Char
 
-	// Output = 3
-	cout << 7 / 2 << endl;
-
-	// Output = 3.5
-	cout << 7 / 2.0 << endl;
-
-	// Output = 100
-	cout << 'c' + 1 << endl;
+ 
 
 	// Calculation in RHS happens
 	// higher datatype
